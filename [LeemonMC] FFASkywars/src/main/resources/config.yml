@@ -1,0 +1,262 @@
+lobby:
+  x: -153
+  y: 153
+  z: 36
+  world: world
+  pitch: 0
+  yaw: 0
+tickInvinsibility: 100
+dieZone: 100
+secondBetweenRegenNormalChest: 120
+secondBetweenRegenGoodChest: 480
+secondBeforeDespawnBlock: 120
+secondBeforeDespawnLiquid: 30
+secondBeforeLogRespawn: 30
+secondBetweenChangeMap: 1800
+hightBuildLimit: 175
+minKillPulpe: 1
+maxKillPulpe: 2
+Maps:
+  MapTest:
+    arenaName: Desert
+    worldName: world
+    specSpawn:
+      x: -38
+      y: 170
+      z: 25
+    islands:
+      1:
+        Chest:
+          chest1:
+            x: -8
+            y: 142
+            z: 18
+            type: NORMAL
+          chest2:
+            x: -6
+            y: 143
+            z: 18
+            type: NORMAL
+        spawnpoint:
+          x: -9
+          y: 142
+          z: 17
+        isMidle: false
+      2:
+        Chest:
+          chest1:
+            x: -8
+            y: 142
+            z: 31
+            type: NORMAL
+          chest2:
+            x: -6
+            y: 143
+            z: 31
+            type: NORMAL
+        spawnpoint:
+          x: -8
+          y: 142
+          z: 30
+        isMidle: false
+      3:
+        Chest:
+          chest1:
+            x: -16
+            y: 142
+            z: 49
+            type: NORMAL
+          chest2:
+            x: -18
+            y: 143
+            z: 49
+            type: NORMAL
+        spawnpoint:
+          x: -15
+          y: 142
+          z: 50
+        isMidle: false
+      4:
+        Chest:
+          chest1:
+            x: -32
+            y: 142
+            z: 57
+            type: NORMAL
+          chest2:
+            x: -34
+            y: 143
+            z: 57
+            type: NORMAL
+        spawnpoint:
+          x: -31
+          y: 142
+          z: 58
+        isMidle: false
+      5:
+        Chest:
+          chest1:
+            x: -48
+            y: 142
+            z: 59
+            type: NORMAL
+          chest2:
+            x: -48
+            y: 143
+            z: 61
+            type: NORMAL
+        spawnpoint:
+          x: -47
+          y: 142
+          z: 60
+        isMidle: false
+      6:
+        Chest:
+          chest1:
+            x: -62
+            y: 143
+            z: 47
+            type: NORMAL
+          chest2:
+            x: -62
+            y: 144
+            z: 49
+            type: NORMAL
+        spawnpoint:
+          x: -62
+          y: 143
+          z: 45
+        isMidle: false
+      7:
+        Chest:
+          chest1:
+            x: -72
+            y: 142
+            z: 31
+            type: NORMAL
+          chest2:
+            x: -72
+            y: 143
+            z: 33
+            type: NORMAL
+        spawnpoint:
+          x: -71
+          y: 142
+          z: 30
+        isMidle: false
+      8:
+        Chest:
+          chest1:
+            x: -71
+            y: 143
+            z: 19
+            type: NORMAL
+          chest2:
+            x: -71
+            y: 142
+            z: 17
+            type: NORMAL
+        spawnpoint:
+          x: -70
+          y: 142
+          z: 16
+        isMidle: false
+      9:
+        Chest:
+          chest1:
+            x: -63
+            y: 143
+            z: 4
+            type: NORMAL
+          chest2:
+            x: -63
+            y: 142
+            z: 2
+            type: NORMAL
+        spawnpoint:
+          x: -62
+          y: 142
+          z: 1
+        isMidle: false
+      10:
+        Chest:
+          chest1:
+            x: -49
+            y: 143
+            z: -3
+            type: NORMAL
+          chest2:
+            x: -49
+            y: 142
+            z: -5
+            type: NORMAL
+        spawnpoint:
+          x: -48
+          y: 142
+          z: -6
+        isMidle: false
+      11:
+        Chest:
+          chest1:
+            x: -35
+            y: 143
+            z: -4
+            type: NORMAL
+          chest2:
+            x: -35
+            y: 142
+            z: -6
+            type: NORMAL
+        spawnpoint:
+          x: -34
+          y: 142
+          z: -7
+        isMidle: false
+      12:
+        Chest:
+          chest1:
+            x: -16
+            y: 142
+            z: 2
+            type: NORMAL
+          chest2:
+            x: -14
+            y: 143
+            z: 2
+            type: NORMAL
+        spawnpoint:
+          x: -17
+          y: 142
+          z: 0
+        isMidle: false
+      13:
+        Chest:
+          chest1:
+            x: -33
+            y: 144
+            z: 26
+            type: GOOD
+            face: EAST
+          chest2:
+            x: -39
+            y: 144
+            z: 31
+            type: GOOD
+            face: SOUTH
+          chest3:
+            x: -45
+            y: 144
+            z: 26
+            type: GOOD
+            face: WEST
+          chest4:
+            x: -39
+            y: 144
+            z: 20
+            type: GOOD
+            face: NORTH
+        spawnpoint:
+          x: 0
+          y: 0
+          z: 0
+        isMidle: true

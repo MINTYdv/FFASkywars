@@ -1,0 +1,9 @@
+name: FFASkywars
+version: 1.0
+author: Rouge_dragon
+main: com.minty.leemonmc.ffaskywars.FFASkywars
+commands:
+  ffagive:
+    description: ffagive command
+  wanted:
+    description: wanted command
